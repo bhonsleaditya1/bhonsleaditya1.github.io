@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://bhonsleaditya1.github.io/sitemap.xml
+Sitemap: https://bhonsleaditya1.github.io/sitemap/sitemap-index.xml
 Host: https://bhonsleaditya1.github.io
